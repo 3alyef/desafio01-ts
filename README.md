@@ -57,15 +57,3 @@ Desenvolvido por [Alef A. Araujo](https://github.com/3alyef)
 [x] Os atributos name e accountNumber não podem ser alterados internamente ou externamente
 
 [x] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
-
-
-
-<script>
-function copyText() {
-  var copyText = document.getElementById("copyTarget");
-  copyText.select();
-  document.execCommand("copy");
-  alert("Texto copiado para a área de transferência!");
-}
-</script>
-
